@@ -142,6 +142,10 @@ body {
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.425);
   cursor: pointer;
 }
+.submit a{
+  text-decoration: none;
+  color: #eee;
+}
 .submit:hover {
   background: #c91a1d;
 }
